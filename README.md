@@ -8,10 +8,10 @@
 
 | 資料夾 | 用途 | 觸發詞 |
 | --- | --- | --- |
-| skills/lesson-project-init | 備課專案初始化：建立 AGENTS.md 與交接紀錄.md | 備課 |
+| skills/lesson-project-init | 備課專案初始化：建立 AGENTS.md 與交接紀錄.md | 備課專案初始化 |
 | skills/session-start | 開工：讀交接紀錄最新一筆，回報進度 | 開工 |
 | skills/session-end | 收工：在交接紀錄.md 最上面新增一筆 | 收工 |
-| skills/project-init | 通用版專案初始化（課後選修，課堂不教） | 新專案 |
+| skills/project-init | 一般專案初始化（課後選修，課堂不教） | 一般專案初始化 |
 
 ## 安裝
 
